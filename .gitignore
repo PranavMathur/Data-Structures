@@ -1,0 +1,8 @@
+Script/searchInFiles.py
+*.pyc
+*.class
+*.o
+*.exe
+*.a
+*.asm
+*.gpj
